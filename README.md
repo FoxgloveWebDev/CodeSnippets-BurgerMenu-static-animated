@@ -1,3 +1,3 @@
 # CodeSnippets-BurgerMenu-static-animated
 
-Html & CSS Burger menu, static and animated.
+Html CSS & JS Burger menu, static and animated.
